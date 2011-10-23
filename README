@@ -1,0 +1,3 @@
+A really stupid program that
+prints out its arguments on
+stdout separated by NULs.
